@@ -1,0 +1,16 @@
+{
+    "projectName": "RisRim",
+    "projectPath": "/home/risrim/Downloads/RisRim",
+    "defaultEditor": "sublime",
+    "frontendHandler": {
+        "android": "/usr/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-android"
+    },
+    "amplify-frontend-android": {
+        "config": {
+            "ResDir": "MsgPublisher/src/main/res"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/usr/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}
